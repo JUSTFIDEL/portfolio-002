@@ -1,3 +1,3 @@
 # My Portfolio
 
-This is one of my portfolios
+This is one of my portfolios.
